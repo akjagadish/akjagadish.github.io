@@ -140,7 +140,7 @@
                         <dd>
                                 <ul style="list-style-type:none;">
                                 <li> <a href="http://www.cmrr.umn.edu/" target="_blank">                
-                                    Center for Magnetic Resonance Imaging (CMRR)	 
+                                    Center for Magnetic Resonance Research (CMRR)	 
                                     </a></li>
                                 <li><a href="http://www.umn.edu" target="_blank">             
                                     University of Minnesota, Twin-Cities
@@ -205,8 +205,7 @@
                         <hr>
                         <h2>Research Interest</h2>
                         <p>
-				My research interest lies in building computational models (at systems level) that can help better understand neural mechanisms underlying vision and attention. 
-				Currently, at <a href="http://cvnlab.net/" target="_blank">                
+My interest primarily lies in building quantitative models that provide algorithmic and/or mathematical framework for cortical processes underlying everyday tasks such as recognition of faces and objects (curious to know if it extends to recognition of voice/music). Currently, at <a href="http://cvnlab.net/" target="_blank">                
                                     Computational Visual Neuroscience Lab</a>, I’m developing a  fully generative model that factors in both bottom-up, sensory-driven responses 
 				and top-down, goal-driven attentional state, connections to accurately characterize cortical responses for arbitrary combinations of stimuli and attentional loci. 
 				In  the past, I focussed on applying 
@@ -281,16 +280,14 @@ image quality with minimum trade-off in terms of scan-time.
                                     <i> International Symposium of Biomedical Imaging (ISBI), 2017.</i><br>
                                     <a href="" target="_blank">[pdf]</a>
                                     <p class="abstract-text"> 
-There exists an inherent characteristic distribution in the magnitude spectrum of the frequency domain,
-also referred to as k-space, of Magnetic Resonance Images. 
-However, there is no method that directly takes into account the energy
-possessed and spatial location of each sample, 
+There exists an inherent characteristic distribution in the magnitude spectrum of the Fourier Transform of Magnetic Resonance (MR) images,
+also referred to as k-space, the high energy samples being concentrated near the center of the magnitude k-space and low energy samples at larger distances.
+However, there is no method that directly takes into account both the spatial location and the energy contained by a sample, 
 while generating a variable density sampling (VDS) distribution. In this paper,
-we propose a two-dimensional weighted K-Means algorithm, an unsupervised learning method,
-that groups high energy samples which are in in close proximity in the 2D space by setting
-appropriate weights based on its position with respect to the center of k-space. Further, a binning-based approach that maximizes, in retrospective, the overall energy content of the sampling
-scheme and minimizes the average distance between consecutive samples, was used to generate
-the adaptive VDS scheme. Extensive simulations show that the proposed method performs significantly better than the existing adaptive methodologies.
+we propose two methods that exploit the underlying structure in MR images and produce adaptive, organ-specific, VDS schemes. First,a weighted K-Means algorithm, an unsupervised learning method,
+that groups or bins samples with similar energy level weighted by its distance from the center of k-space. Second, a simple binning-based approach
+that maximizes the overall energy content of the sampling scheme and minimizes the average distance between neighboring samples. 
+Extensive retrospective CS-MRI simulations have shown that the proposed methods perform significantly better than the existing adaptive methodologies.
                                     </p>
                                 </li>             
                                                                                          </ul>
