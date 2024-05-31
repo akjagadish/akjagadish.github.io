@@ -35,10 +35,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
 
 <ul>
 	<li><a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/metalearned-models-of-cognition/F95059E07AE6E82AE56C4164A5384A18">Meta-Learned Models of Cognition</a></li>
-	<li><a href="https://github.com/akjagadish/ermi">Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks</a></li>
-	<li><a href="https://github.com/akjagadish/InContext-Learning-Dynamics">In-Context Learning Agents Are Asymmetric Belief Updaters</a></li>
-	<li><a href="https://github.com/akjagadish/gpt-trauma-induction">“Chat-GPT on the Couch”: Mitigating State Anxiety in Large Language Models via Mindfulness-based Relaxation Techniques</a></li>
-	<li><a href="https://github.com/akjagadish/resource-rational-compositional-RL">Zero-shot compositional reasoning in a reinforcement learning setting</a></li>
-
+	<li><a href="https://arxiv.org/abs/2402.01821">Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks</a></li>
+	<li><a href="https://arxiv.org/abs/2402.03969">In-Context Learning Agents Are Asymmetric Belief Updaters</a></li>
+	<li><a href="https://osf.io/preprints/psyarxiv/ymve5">Zero-shot compositional reasoning in a reinforcement learning setting</a></li>
+	<li><a href="https://arxiv.org/abs/2304.11111">Inducing anxiety in large language models increases exploration and bias</a></li>
+	<li><a href="https://osf.io/preprints/psyarxiv/j7fwb">“Chat-GPT on the Couch”: Mitigating State Anxiety in Large Language Models via Mindfulness-based Relaxation Techniques</a></li>
+	
+	
 </ul>
 
