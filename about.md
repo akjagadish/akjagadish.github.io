@@ -31,7 +31,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
 	<li>TDD e Continuous Integration</li>
 </ul> -->
 
-<h2>Projects</h2>
+<h2>Selected Publications</h2>
 
 <ul>
 	<li><a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/metalearned-models-of-cognition/F95059E07AE6E82AE56C4164A5384A18">Meta-Learned Models of Cognition</a></li>
