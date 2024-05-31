@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+facebook: B42Mr-sAAAAJ&hl=en
 # instagram: myinstagram
 twitter: akjagadish
 linkedin: akshaykjagadish
 github: akjagadish
-google-scholar: https://scholar.google.com/citations?user=B42Mr-sAAAAJ&hl=en
+# google-scholar: https://scholar.google.com/citations?user=B42Mr-sAAAAJ&hl=en
 email: akshaykjagadish@gmail.com
 
 authors:
