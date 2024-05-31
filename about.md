@@ -9,12 +9,12 @@ layout: page
 <h2>Selected Publications</h2>
 
 <p>
-	<li>Binz, M., Dasgupta, I., <b>Jagadish, A. K.</b>, Botvinick, M., Wang, J.X., & Schulz, E. (in press). <a href="https://arxiv.org/abs/2304.06729/">Meta-Learned Models of Cognition</a>. Behavioral and Brain Sciences.</li>
-	<li><b>Jagadish, A. K.</b>, Coda-Forno, J., Thalmann, M., Schulz, E., & Binz, M., (2024). <a href="https://arxiv.org/abs/2402.01821">Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks</a>. Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria.</li> 
-	Schubert, J. A., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2024). <a href="https://arxiv.org/abs/2402.03969">In-Context Learning Agents Are Asymmetric Belief Updaters</a>. Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria. <span style="vertical-align:-75%"></span><br>
-	<b>Jagadish, A. K.</b>, Binz, M., Saanum, T., Wang, J.X., & Schulz, E. (under review). <a href="https://osf.io/preprints/psyarxiv/ymve5">Zero-shot compositional reasoning in a reinforcement learning setting</a>. <span style="vertical-align:-75%"></span> <br>
-	Coda-Forno, J., Witte, K., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (under review). <a href="https://arxiv.org/abs/2304.11111">Inducing anxiety in large language models increases exploration and bias</a>. <br>
+	Binz, M., Dasgupta, I., <b>Jagadish, A. K.</b>, Botvinick, M., Wang, J.X., & Schulz, E. (in press). <a href="https://arxiv.org/abs/2304.06729/">Meta-Learned Models of Cognition</a>. Behavioral and Brain Sciences. <span style="vertical-align:-75%"></span><br>
+	<b>Jagadish, A. K.</b>, Coda-Forno, J., Thalmann, M., Schulz, E., & Binz, M., (2024). <a href="https://arxiv.org/abs/2402.01821">Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks</a>. Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria.<span style="vertical-align:-75%"></span> <br>
+	Schubert, J. A., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2024). <a href="https://arxiv.org/abs/2402.03969">In-Context Learning Agents Are Asymmetric Belief Updaters</a>. Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria.<span style="vertical-align:-75%"></span> <br>
+	<b>Jagadish, A. K.</b>, Binz, M., Saanum, T., Wang, J.X., & Schulz, E. (under review). <a href="https://osf.io/preprints/psyarxiv/ymve5">Zero-shot compositional reasoning in a reinforcement learning setting</a>.<span style="vertical-align:-75%"></span> <br>
+	Coda-Forno, J., Witte, K., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (under review). <a href="https://arxiv.org/abs/2304.11111">Inducing anxiety in large language models increases exploration and bias</a>. <span style="vertical-align:-75%"></span><br>
 </p>
 
 <!-- <li><a href="https://osf.io/preprints/psyarxiv/j7fwb">“Chat-GPT on the Couch”: Mitigating State Anxiety in Large Language Models via Mindfulness-based Relaxation Techniques</a></li> 
-<span style="vertical-align:-75%"></span>-->
+-->
