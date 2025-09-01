@@ -17,8 +17,9 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://github.com/akjagadish/Jagadish_CV/blob/main/Jagadish_CV.pdf
+resume-external: false
+resume-url: assets/Jagadish_CV.pdf
+https://github.com/akjagadish/Jagadish_CV/blob/main/Jagadish_CV.pdf
 # assets/Jagadish_CV.pdf
 # https://drive.google.com/file/d/1VkKBd8eePH7ZdKV6x7bf98gPOLj5iYlH/view?usp=sharing
 
