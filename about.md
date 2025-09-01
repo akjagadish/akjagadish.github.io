@@ -29,16 +29,18 @@ Schubert, J. A., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2024).
 Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria. 
 <span style="vertical-align:-75%"></span><br>
 
-<b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2025). 
-<a href="">Meta-learning ecological priors from large language models captures human learning and decision making</a>. 
-Under review. 
-<span style="vertical-align:-75%"></span><br>
-
 Rmus, M.<span style="vertical-align:super;">*</span>, <b>Jagadish, A. K.</b><span style="vertical-align:super;">*</span>, Mathony, M., & Schulz, E. (2025). 
 <a href="https://arxiv.org/pdf/2502.00879.pdf">Generating Computational Cognitive Models using Large Language Models</a>. 
 Under review. 
 <span style="vertical-align:-75%"></span><br>
 </p>
+
+<b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2025). 
+<a href="">Meta-learning Ecological Priors from Large Language Models explains Human Learning and Decision making</a>. 
+Under review. 
+<span style="vertical-align:-75%"></span><br>
+
+
 
 <!-- Coda-Forno, J., Witte, K., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (under review). <a href="https://arxiv.org/abs/2304.11111">Inducing anxiety in large language models increases exploration and bias</a>. <span style="vertical-align:-75%"></span><br> -->
 <!-- <li><a href="https://osf.io/preprints/psyarxiv/j7fwb">“Chat-GPT on the Couch”: Mitigating State Anxiety in Large Language Models via Mindfulness-based Relaxation Techniques</a></li> 
