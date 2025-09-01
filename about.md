@@ -29,7 +29,7 @@ Schubert, J. A., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2024).
 Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria. 
 <span style="vertical-align:-75%"></span><br>
 
-Rmus, M.<span style="vertical-align:super;">*</span>, <b>Jagadish, A. K.</b><span style="vertical-align:super;">*</span>, Mathony, M., & Schulz, E. (2025). 
+Rmus, M.*, <b>Jagadish, A. K.</b>*, Mathony, M., & Schulz, E. (2025). 
 <a href="https://arxiv.org/pdf/2502.00879.pdf">Generating Computational Cognitive Models using Large Language Models</a>. 
 Under review. 
 <span style="vertical-align:-75%"></span><br>
