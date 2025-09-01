@@ -33,13 +33,12 @@ Rmus, M.*, <b>Jagadish, A. K.</b>*, Mathony, M., & Schulz, E. (2025).
 <a href="https://arxiv.org/pdf/2502.00879.pdf">Generating Computational Cognitive Models using Large Language Models</a>. 
 Under review. 
 <span style="vertical-align:-75%"></span><br>
-</p>
 
 <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2025). 
 <a href="">Meta-learning Ecological Priors from Large Language Models explains Human Learning and Decision making</a>. 
 Under review. 
 <span style="vertical-align:-75%"></span><br>
-
+</p>
 
 
 <!-- Coda-Forno, J., Witte, K., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (under review). <a href="https://arxiv.org/abs/2304.11111">Inducing anxiety in large language models increases exploration and bias</a>. <span style="vertical-align:-75%"></span><br> -->
