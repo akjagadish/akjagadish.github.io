@@ -30,7 +30,8 @@ Proceedings of the 41st International Conference on Machine Learning (ICML), Vie
 <span style="vertical-align:-75%"></span><br>
 
 <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2025). 
-<i>Meta-learning ecological priors from large language models captures human learning and decision making.</i> Under review. 
+<a href="">Meta-learning ecological priors from large language models captures human learning and decision making</a>. 
+Under review. 
 <span style="vertical-align:-75%"></span><br>
 
 Rmus, M.<span style="vertical-align:super;">*</span>, <b>Jagadish, A. K.</b><span style="vertical-align:super;">*</span>, Mathony, M., & Schulz, E. (2025). 
