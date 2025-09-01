@@ -7,7 +7,7 @@ layout: page
 <p>
   Akshay K. Jagadish is a postdoctoral research fellow at the Princeton AI Lab. His work focuses on:
 </p>
-<ol style="margin-top: -8px;">
+<ol style="margin-top: -12px;">
   <li>Uncovering the essential ingredients of human cognition by building scalable models of human cognitive function. </li>
   <li>Developing AI-driven methods to accelerate the discovery of interpretable models of human behavior and their internal representations.</li>
 </ol>
