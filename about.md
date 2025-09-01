@@ -15,7 +15,7 @@ layout: page
 <h2>Key Publications</h2>
 
 <p>
-Binz, M., Dasgupta, I., <b>Jagadish, A. K.</b>, Botvinick, M., Wang, J.X., & Schulz, E. (in press). 
+Binz, M., Dasgupta, I., <b>Jagadish, A. K.</b>, Botvinick, M., Wang, J.X., & Schulz, E. (2024). 
 <a href="https://arxiv.org/abs/2304.06729/">Meta-Learned Models of Cognition</a>. Behavioral and Brain Sciences. 
 <span style="vertical-align:-75%"></span><br>
 
