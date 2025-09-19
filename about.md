@@ -5,12 +5,15 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-  Akshay K. Jagadish is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds:
+  Akshay K. Jagadish is a postdoctoral research fellow at the <a href="https://ai.princeton.edu/ai-lab/people/postdocs-and-scholars">Princeton AI Lab</a>. His work bridges cognitive science and artificial intelligence, taking two complementary approaches to understanding natural and artificial minds:
 </p>
 <ol style="margin-top: -19px;">
-  <li>Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological rationality, and resource-rationality. </li>
-  <li>Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations.</li>
+  <li>Designing scalable, sub-symbolic models of human and machine cognition through frameworks such as <a href="https://arxiv.org/abs/2304.06729">meta-learning</a>, <a href="https://arxiv.org/abs/2402.01821">ecological rationality</a>, and <a href="https://arxiv.org/abs/2402.03969">resource-rationality</a>.</li>
+  <li>Developing AI-driven methods to uncover interpretable <a href="https://arxiv.org/pdf/2502.00879.pdf">symbolic programs of behavior</a> and the internal representations that guide them.</li>
 </ol>
+<p>
+  Before joining Princeton, he spent six years in Germany, where he earned a Ph.D. in Computer Science and an M.Sc. in Computational Neuroscience at the University of Tübingen under the mentorship of Eric Schulz and Marcel Binz. His research has been featured in outlets including <a href="http://www.nytimes.com/2025/03/17/science/chatgpt-digital-therapists-anxiety.html"><i>The New York Times</i></a><sup>[1]</sup>, <a href="https://fortune.com/2025/03/09/openai-chatgpt-anxiety-mindfulness-mental-health-intervention/?abc123"><i>Fortune</i></a>, <a href="https://www.tagesspiegel.de/wissen/wie-denkt-chatgpt-geht-ein-chatbot-zum-psychologen-11726375.html"><i>Tagesspiegel</i></a>, <a href="https://www.sciencedaily.com/releases/2025/03/250303141645.htm"><i>Science Daily</i></a>, and <a href="https://www.nytimes.com/2025/07/02/science/ai-psychology-mind.html"><i>The New York Times</i></a><sup>[2]</sup>.
+</p>
 
 <h2>Key Publications</h2>
 
