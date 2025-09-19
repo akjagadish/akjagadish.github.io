@@ -8,7 +8,7 @@ layout: page
   Akshay K. Jagadish is a postdoctoral research fellow at the <a href="https://ai.princeton.edu/ai-lab/people/postdocs-and-scholars">Princeton AI Lab</a>. His work bridges cognitive science and artificial intelligence, taking two complementary approaches to understanding natural and artificial minds:
 </p>
 <ol style="margin-top: -19px;">
-  <li>Designing scalable, sub-symbolic models of human and machine cognition through frameworks such as <a href="https://arxiv.org/abs/2304.06729">meta-learning</a>, <a href="https://arxiv.org/abs/2402.01821">ecological rationality</a>, and <a href="https://arxiv.org/abs/2402.03969">resource-rationality</a>.</li>
+  <li>Designing scalable, sub-symbolic models of human and machine cognition through frameworks such as <a href="https://arxiv.org/abs/2304.06729">meta-learning</a>, <a href="https://arxiv.org/abs/2402.03969">rational analysis</a>, <a href="https://arxiv.org/abs/2402.01821">ecological rationality</a>, <a href="https://osf.io/preprints/psyarxiv/ymve5">resource-rationality</a> and <a href="https://escholarship.org/uc/item/7k85s0j0">bounded ecologically rational analysis</a>.</li>
   <li>Developing AI-driven methods to uncover interpretable <a href="https://arxiv.org/pdf/2502.00879.pdf">symbolic programs of behavior</a> and the internal representations that guide them.</li>
 </ol>
 <p>
