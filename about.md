@@ -31,7 +31,7 @@ Proceedings of the 41st International Conference on Machine Learning (ICML), Vie
 
 Rmus, M.*, <b>Jagadish, A. K.</b>*, Mathony, M., & Schulz, E. (2025). 
 <a href="https://arxiv.org/pdf/2502.00879.pdf">Generating Computational Cognitive Models using Large Language Models</a>. 
-Under review. 
+Advances in Neural Information Processing Systems (NeurIPS), San Diego, USA. 
 <span style="vertical-align:-75%"></span><br>
 
 <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2025). 
