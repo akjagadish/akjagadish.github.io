@@ -1,2 +1,13 @@
+// Inline SVG rather than a Font Awesome glyph so the icon paints with the
+// text links instead of after the remote icon script loads.
 .theme-toggle
     cursor: pointer
+
+    > .theme-toggle-icon
+        width: 1em
+        height: 1em
+        vertical-align: -0.12em
+
+// Fade colours when the theme is switched instead of snapping.
+body
+    transition: background-color .3s ease-in-out, color .3s ease-in-out
