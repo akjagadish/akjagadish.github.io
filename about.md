@@ -5,14 +5,15 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-  Akshay K. Jagadish is a postdoctoral research fellow at the <a href="https://ai.princeton.edu/ai-lab/people/postdocs-and-scholars">Princeton AI Lab</a>. His work bridges cognitive science and artificial intelligence, taking two complementary approaches to understanding natural and artificial minds:
+  Akshay K. Jagadish is a Peretsman-Scully Postdoctoral Fellow at the <a href="https://ai.princeton.edu/ai-lab/people/postdocs-and-scholars">Princeton AI Lab</a>. His research draws on the latest advancements in machine learning and artificial intelligence to:
 </p>
 <ol style="margin-top: -19px;">
-  <li>Designing scalable, sub-symbolic models of human and machine cognition through frameworks such as <a href="https://arxiv.org/abs/2304.06729">meta-learning</a>, <a href="https://arxiv.org/abs/2402.03969">rational analysis</a>, <a href="https://arxiv.org/abs/2402.01821">ecological rationality</a>, <a href="https://osf.io/preprints/psyarxiv/ymve5">resource-rationality</a> and <a href="https://escholarship.org/uc/item/7k85s0j0">bounded ecologically rational analysis</a>.</li>
-  <li>Developing AI-driven methods to uncover interpretable <a href="https://arxiv.org/pdf/2502.00879.pdf">symbolic programs of behavior</a> and the internal representations that guide them.</li>
+  <li>Characterize determinants of human behavior using <a href="https://arxiv.org/abs/2509.00116">meta-learning</a>.</li>
+  <li>Discover mechanisms underlying human behavior using <a href="https://arxiv.org/pdf/2502.00879.pdf">behavior-conditioned program synthesis</a>.</li>
+  <li>Uncover universal laws of behavior from large-scale behavioral datasets using <a href="https://arxiv.org/abs/2606.26448">agentic AI</a>.</li>
 </ol>
 <p>
-  Before joining Princeton, he spent six wonderful years in Germany, where he earned a Ph.D. in Computer Science and an M.Sc. in Computational Neuroscience at the University of Tübingen under the mentorship of Eric Schulz and Marcel Binz. His research has been featured in popular press, including The New York Times<sup>[<a href="http://www.nytimes.com/2025/03/17/science/chatgpt-digital-therapists-anxiety.html">1</a>][<a href="https://www.nytimes.com/2025/07/02/science/ai-psychology-mind.html">2</a>]</sup>, Fortune<sup>[<a href="https://fortune.com/2025/03/09/openai-chatgpt-anxiety-mindfulness-mental-health-intervention/?abc123">3</a>]</sup>, Tagesspiegel<sup>[<a href="https://www.tagesspiegel.de/wissen/wie-denkt-chatgpt-geht-ein-chatbot-zum-psychologen-11726375.html">4</a>]</sup>, and Science Daily<sup>[<a href="https://www.sciencedaily.com/releases/2025/03/250303141645.htm">5</a>]</sup>.
+  Before joining Princeton, he spent six wonderful years in Germany, where he earned a Ph.D. in Computer Science and an M.Sc. in Computational Neuroscience at the University of Tübingen under the mentorship of <a href="https://hcai-munich.com/">Eric Schulz</a> and <a href="https://core-cognition.github.io/index.html">Marcel Binz</a>. His research has been featured in popular press, including The New York Times<sup>[<a href="http://www.nytimes.com/2025/03/17/science/chatgpt-digital-therapists-anxiety.html">1</a>][<a href="https://www.nytimes.com/2025/07/02/science/ai-psychology-mind.html">2</a>]</sup>, Fortune<sup>[<a href="https://fortune.com/2025/03/09/openai-chatgpt-anxiety-mindfulness-mental-health-intervention/?abc123">3</a>]</sup>, Tagesspiegel<sup>[<a href="https://www.tagesspiegel.de/wissen/wie-denkt-chatgpt-geht-ein-chatbot-zum-psychologen-11726375.html">4</a>]</sup>, and Science Daily<sup>[<a href="https://www.sciencedaily.com/releases/2025/03/250303141645.htm">5</a>]</sup>.
 </p>
 
 <h2>Key Publications</h2>
