@@ -26,7 +26,8 @@ layout: compress
     <style id="theme-light">{{ scss_light | scssify }}</style>
     <style id="theme-dark" media="(prefers-color-scheme: dark)">{{ scss_dark | scssify }}</style>
     <script>
-    // Light/dark toggle. "auto" follows the system; a click saves an explicit choice.
+    /* Light/dark toggle: "auto" follows the system; a click saves an explicit choice.
+       Use block comments only: the compress layout joins these lines, so a line comment would swallow the script. */
     (function () {
       var dark = document.getElementById('theme-dark');
       var light = document.getElementById('theme-light');
