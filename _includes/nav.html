@@ -38,5 +38,20 @@
                 href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
         </li>
         {% endif %}
+
+        {% if page.title != "Home" %}
+        <li class="item">
+            <a class="link theme-toggle" href="#" onclick="toggleTheme(); return false;" title="Toggle light / dark mode" aria-label="Toggle light / dark mode"><i class="fa-solid fa-circle-half-stroke"></i></a>
+        </li>
+        {% endif %}
     </ul>
 </nav>
+{% if page.title == "Home" %}
+<nav class="nav">
+    <ul class="list">
+        <li class="item">
+            <a class="link theme-toggle" href="#" onclick="toggleTheme(); return false;" title="Toggle light / dark mode" aria-label="Toggle light / dark mode"><i class="fa-solid fa-circle-half-stroke"></i></a>
+        </li>
+    </ul>
+</nav>
+{% endif %}
