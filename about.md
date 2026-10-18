@@ -18,18 +18,16 @@ layout: page
 <h2>Key Publications</h2>
 
 <p>
-Binz, M., Dasgupta, I., <b>Jagadish, A. K.</b>, Botvinick, M., Wang, J.X., & Schulz, E. (2024). 
-<a href="https://arxiv.org/abs/2304.06729/">Meta-Learned Models of Cognition</a>. Behavioral and Brain Sciences. 
+
+<b>Jagadish, A. K.</b>, Witte, K., Mathony, M., Binz, M., & Schulz, E. (2026). 
+<a href="https://arxiv.org/abs/2603.20988">Toward an Automated Science of the Mind</a>. 
+Neuron. 
 <span style="vertical-align:-75%"></span><br>
 
-<b>Jagadish, A. K.</b>, Coda-Forno, J., Thalmann, M., Schulz, E., & Binz, M. (2024). 
-<a href="https://arxiv.org/abs/2402.01821">Human-like Category Learning by Injecting Ecological Priors from Large Language Models into Neural Networks</a>. 
-Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria. 
-<span style="vertical-align:-75%"></span><br>
 
-Schubert, J. A., <b>Jagadish, A. K.</b>, Binz, M., & Schulz, E. (2024). 
-<a href="https://arxiv.org/abs/2402.03969">In-Context Learning Agents Are Asymmetric Belief Updaters</a>. 
-Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria. 
+<b>Jagadish, A. K.</b>*, Strittmatter, Y.*, Jacoby, N., Kachergis, G., Schulz, E., Daw, N., Chandramouli, S. H., & Griffiths, T. L. (2026). 
+<a href="https://arxiv.org/abs/2606.26448">Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist</a>. 
+Preprint. 
 <span style="vertical-align:-75%"></span><br>
 
 Rmus, M.*, <b>Jagadish, A. K.</b>*, Mathony, M., & Schulz, E. (2025). 
@@ -37,9 +35,16 @@ Rmus, M.*, <b>Jagadish, A. K.</b>*, Mathony, M., & Schulz, E. (2025).
 Advances in Neural Information Processing Systems (NeurIPS), San Diego, USA. 
 <span style="vertical-align:-75%"></span><br>
 
+
 <b>Jagadish, A. K.</b>, Thalmann, M., Coda-Forno, J., Binz, M., & Schulz, E. (2025). 
 <a href="https://arxiv.org/abs/2509.00116">Meta-learning Ecological Priors from Large Language Models explains Human Learning and Decision making</a>. 
 Under review. 
+<span style="vertical-align:-75%"></span><br>
+
+
+Strittmatter, Y., Griffiths, T. L., & <b>Jagadish, A. K.</b> (2026). 
+<a href="https://escholarship.org/uc/item/9q54r700">Pipeline for Systematic Curation of Human Experiments</a>. 
+Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci). 
 <span style="vertical-align:-75%"></span><br>
 </p>
 
